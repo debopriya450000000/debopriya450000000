@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, It's Debopriya
 # 💫 About Me:
 🔭 I’m currently pursuing BTech in CSE at Sister Nivedita University<br>🤝 I’m looking for help with <br>      Building real-world projects in Machine Learning and Data Analytics, <br>     and collaborating with others to learn and grow together.<br>🌱 I’m currently learning<br>      Data Analytics, Machine Learning, and exploring Python for AI applications.<br>💼 Connect with me<br>      LinkedIn-https://www.linkedin.com/in/debopriya-bhattacharjee-609136294/<br>⚡ Fun fact<br>      I believe every dataset tells a story — you just need the right algorithm to listen! 😄
 
